@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e23b011.css",
-    "main.js": "/static/js/main.7e841e6e.js",
-    "index.html": "/index.html",
-    "main.4e23b011.css.map": "/static/css/main.4e23b011.css.map",
-    "main.7e841e6e.js.map": "/static/js/main.7e841e6e.js.map"
+    "main.css": "/ems-portal/static/css/main.4e23b011.css",
+    "main.js": "/ems-portal/static/js/main.7e841e6e.js",
+    "index.html": "/ems-portal/index.html",
+    "main.4e23b011.css.map": "/ems-portal/static/css/main.4e23b011.css.map",
+    "main.7e841e6e.js.map": "/ems-portal/static/js/main.7e841e6e.js.map"
   },
   "entrypoints": [
     "static/css/main.4e23b011.css",
