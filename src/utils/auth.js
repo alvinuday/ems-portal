@@ -45,7 +45,7 @@ export async function login(username, password) {
       // store time of login to check session expiry
       localStorage.setItem("expiresIn", new Date());
     })
-    .catch(console.error);
+    .catch(alert("Invalid Credentials"));
 
   // try {
   //   await mockLogin(username, password);
